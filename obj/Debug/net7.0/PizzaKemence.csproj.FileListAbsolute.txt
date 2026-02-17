@@ -3,7 +3,6 @@
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/bin/Debug/net7.0/PizzaKemence.runtimeconfig.json
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/bin/Debug/net7.0/PizzaKemence.dll
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/bin/Debug/net7.0/PizzaKemence.pdb
-/Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.csproj.AssemblyReference.cache
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.GeneratedMSBuildEditorConfig.editorconfig
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.AssemblyInfoInputs.cache
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.AssemblyInfo.cs
@@ -13,3 +12,4 @@
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.pdb
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.genruntimeconfig.cache
 /Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/ref/PizzaKemence.dll
+/Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/obj/Debug/net7.0/PizzaKemence.sourcelink.json
