@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nWEyVto6bUkDDK0uDQZFAT+0fwFZPuxAVftVTMTyr2WQsXUMSFKB3frCOM1Q8aakv3ilyyKcXtoyehnpJrjl7A==",
+  "dgSpecHash": "f2SPzUUGRtg=",
   "success": true,
   "projectFilePath": "/Users/szaboloveygergo/Documents/suli/asztali_alkalmazas/PizzaKemence/PizzaKemence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/szaboloveygergo/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/szaboloveygergo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/szaboloveygergo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
